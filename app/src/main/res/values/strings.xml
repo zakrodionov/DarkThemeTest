@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DarkThemeTest</string>
+
+    <string name="preferences_theme">Тема</string>
+    <string name="preferences_system_theme">Системная</string>
+    <string name="preferences_light_theme">Светлая</string>
+    <string name="preferences_dark_theme">Темная</string>
+</resources>
